@@ -84,6 +84,8 @@ var index_config_default = {
       address: "https://hy.jsnzkpg.ccwu.cc"},
     {name: "⚡永乐视频",
       address: "https://ylsp.jsnzkpg.ccwu.cc"},
+    {name: "🍉瓜子影视",
+      address: "https://gzys.jsnzkpg.ccwu.cc"},
     {name: "🗡️荐片",
       address: "https://jp.jsnzkpg.ccwu.cc"},
     {name: "🎞️爬虫",
