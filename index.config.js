@@ -74,9 +74,9 @@ var index_config_default = {
  t4: {list: [
     {name: "✈️关注TG频道@stymei",
       address: "http://bob2.hkt.net.cn/miraplay/dbo.php"},
-    {name: "⚽体育直播",
+    {name: "⚽世界杯直播[咖啡体育]",
       address: "https://jsnzkpg.us.ci"},
- {name: "🏆世界杯[4K]",
+ {name: "⚽世界杯直播[OK体育]",
       address: "https://sports.jsnzkpg.ccwu.cc"},
     {name: "📡IPTV直播",
       address: "https://live.jsnzkpg.ccwu.cc"},
@@ -84,13 +84,11 @@ var index_config_default = {
       address: "https://hy.jsnzkpg.ccwu.cc"},
     {name: "⚡永乐视频",
       address: "https://ylsp.jsnzkpg.ccwu.cc"},
-    {name: "🍉瓜子影视",
-      address: "https://gzys.jsnzkpg.ccwu.cc"},
     {name: "🗡️荐片",
       address: "https://jp.jsnzkpg.ccwu.cc"},
     {name: "🎞️爬虫",
       address: "https://dy.7772888.xyz/api.php/tvbox"},
-    {name: "🇨🇳央视栏目",
+    {name: "🇨🇳央视",
       address: "https://catbox.n13.club/18/央视影视.php"}
 ]},
   cms: {list: [
